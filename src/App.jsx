@@ -14,7 +14,7 @@ function App() {
           <Highlights /> 
           <Features />
         <Howitworks />
-
+      <Footer />
     </main>
   )
 }
